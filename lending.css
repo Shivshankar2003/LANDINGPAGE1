@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image: url(./429874.jpg);
+    background-size:cover ;
+    background-repeat: no-repeat ;
+    background-attachment: fixed;  
+}
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+
+.Details{
+    
+    display: flex;
+    margin: 10px;
+}
+.address{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 10px;
+    color: rgb(255, 255, 255);
+}
+
+.google{
+
+    font-size: 80px;
+    margin-top: 200px;
+    display:flex;
+    justify-content: center;
+    color: #ffffff;
+}
+.searchbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.search-input{
+    background:white;
+    width: 520px;
+    height: 40px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+
+} 
+
+
+
+.search-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 40px;
+    font-size: 1.2rem;
+    background:white;
+    color:rgb(49, 40, 40) ;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border: none;
+    
+    
+}
+.search{
+    background: white;
+}
+.mac-cam{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 40px;
+    background:white;
+    border:none;
+    color:rgb(255, 0, 0) ; 
+}
+.camera{
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+   
+}
+.icon-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.icon-box2{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: white;
+    margin: 10px 30px 0px 20px;
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    
+ 
